@@ -1,0 +1,22 @@
+{
+  "name": "ezevent",
+  "description": "Extremely simple and powerful event manager",
+  "version": "1.0.0",
+  "keywords": [
+    "event",
+    "events"
+  ],
+  "maintainers": [
+    {
+      "name": "Lodewijk Andre de la Porte",
+      "email": "l@odewijk.nl",
+      "web": "l.odewijk.nl"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/lodewijkadlp/ezev"
+    }
+  ]
+}
